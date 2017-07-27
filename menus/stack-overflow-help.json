@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle stack-overflow-help",
+        "label": "Toggle Stack Overflow",
         "command": "stack-overflow-help:toggle"
       }
     ]
