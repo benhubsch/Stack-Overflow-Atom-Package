@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle stack-overflow-help",
+        "command": "stack-overflow-help:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "stack-overflow-help",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "stack-overflow-help:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "stack-overflow-help",
+  "main": "./lib/stack-overflow-help",
+  "version": "0.0.0",
+  "description": "A package that renders StackOverflow answers to in-line questions directly in Atom.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "stack-overflow-help:toggle"
+  },
+  "repository": "https://github.com/benhubsch/Stack-Overflow-Atom-Package",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "google": "^2.1.0",
+    "request": "^2.81.0",
+    "screenshotlayer": "^1.0.0",
+    "urlbox": "^1.2.3",
+    "webpage": "^0.3.0"
+  }
+}
