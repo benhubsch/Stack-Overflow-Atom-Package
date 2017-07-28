@@ -1,7 +1,7 @@
 {
   "name": "stack-overflow-help",
   "main": "./lib/stack-overflow-help",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A package that renders StackOverflow answers to inline questions from within Atom.",
   "keywords": [],
   "activationCommands": {
