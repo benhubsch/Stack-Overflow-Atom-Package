@@ -1,6 +1,6 @@
 # Stack Overflow Help
 
-An Atom package that allows users to search for answers on Stack Overflow from within their text editor.
+An Atom package that allows users to search for answers on Stack Overflow from within their text editor. If you're reading this on atom.io, I recommend checking out my [Github page](https://github.com/benhubsch/Stack-Overflow-Atom-Package), where the images will be able to render.
 
 ## Table of Contents
 
