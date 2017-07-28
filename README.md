@@ -25,7 +25,7 @@ Interestingly, there's a heavy reliance on the use of the `this` when hacking wi
 
 There are a couple of options for install.
 
-1. Go to Atom -> Settings -> Install and search for "stack-overflow-help".
+1. Go to Atom -> Settings -> Install and search for "stack-overflow-help" or checkout [https://atom.io/packages/stack-overflow-help](https://atom.io/packages/stack-overflow-help).
 
 2. Open up a command line and run `apm install stack-overflow-help`. You should have apm installed if you have Atom but you can poke around [here](https://github.com/atom/apm) if you're having trouble.
 
