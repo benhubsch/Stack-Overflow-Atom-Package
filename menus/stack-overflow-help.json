@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "stack-overflow-help",
+          "label": "Stack Overflow Help",
           "submenu": [
             {
               "label": "Toggle",
